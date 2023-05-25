@@ -18,9 +18,9 @@ func main() {
 }
 
 type user struct {
-	name   string
-	age    int
-	adress address
+	name    string
+	age     int
+	address address
 }
 
 type address struct {
